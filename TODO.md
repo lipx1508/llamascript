@@ -1,13 +1,13 @@
-[] Prototype functions
+[ ] Prototype functions
 
-[] Referencing variables by code and not just internally
+[ ] Referencing variables by code and not just internally
 
-[] Allowing a better and more clean interface with the API
+[ ] Allowing a better and more clean interface with the API
 
-[] C++ <-> llamaScript interopability
+[ ] C++ <-> llamaScript interopability
 
-[] Dynamic library loading
+[ ] Dynamic library loading
 
-[] Docs, docs, and more docs......
+[ ] Docs, docs, and more docs......
 
-[] Better standard library
+[ ] Better standard library
