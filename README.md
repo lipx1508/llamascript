@@ -1,6 +1,5 @@
-# llamascript
-A multi-paradigm scripting language for embed systems, written in C++
+# Old llamascript compiler
+"A multi-paradigm scripting language for embedded systems, written in C++"
 
-## NOTE!!!!
-**THIS IS *NOT* READY FOR PRODUCTION!**
-The compiler is a work in progress, please do not make any production code using llamaScript
+## NOTE:
+The compiler was archived because it is going to get a reimplementation. I don't think this one is modular enough or easier for embedded systems since it relies *way too much* on heap memory and other wacky C++ features. The project is not dead, it will just be rewritten to ensure better coding standards and readability.
